@@ -7,5 +7,6 @@ Online Food Menu for AbhiRuchi
 
 #ER Diagram
 ----------------------------------------------------
-![ER_DIAGRAM (1)](https://user-images.githubusercontent.com/90315399/181937341-754204ba-f62e-4e47-aec6-cea3a671bf3a.jpg)
+![ER_DIAGRAM (2)](https://user-images.githubusercontent.com/90315399/182010283-21217ebd-7be6-4226-b5d6-c27dd01e2cc3.jpg)
+
 
