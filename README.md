@@ -189,24 +189,33 @@ The following list specifies User Activities while using our Application.
 ![add_food2](https://user-images.githubusercontent.com/90315399/184936228-c3c585d9-2d1b-4e74-ad98-325c835d1378.png)
 
 
-6.5.4.2.. (After successful Addition to Category List)
+6.5.4.3.. (After Deleting Food)
+![delete_food](https://user-images.githubusercontent.com/90315399/184938798-65c4cdcc-7e6e-41c3-8735-944de2003ebf.png)
 
 
-6.5.4.3.. (After Deleting Category)
+6.5.4.4.. (After Choosing Update Food Button)
+![update_food](https://user-images.githubusercontent.com/90315399/184939072-47684635-38ef-4421-9e3d-f131391b0012.png)
 
 
-6.5.4.4.. (After Choosing Update Category Button)
+6.5.4.5.. (After Succesfull Food Updation)
+![successful_food](https://user-images.githubusercontent.com/90315399/184939717-bbe3cfd3-6afe-4641-bf47-eced619bccf3.png)
 
-
-6.5.4.5.. (After Succesfull Updation)
 
 6.5.5.0.. (To View List Of Orders)
+![order](https://user-images.githubusercontent.com/90315399/184940077-4afc37e3-d517-4c84-97f8-fc1bc1b79f61.png)
+
 
 6.5.5.1.. (After choosing Update Order Button)
+![update_order](https://user-images.githubusercontent.com/90315399/184940221-c7226e32-3bb9-4335-8d05-29e575317e10.png)
+
 
 6.5.5.2.. (After Successful Updation)
+![successful_update_order](https://user-images.githubusercontent.com/90315399/184940448-7d099357-d202-425c-9c17-601b50d39a6e.png)
+
 
 6.5.6.0.. (Logout from Admin Panel)
+<img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184940515-b323fe35-ce20-4daf-ba07-c8fd94e1bb65.png">
+
 
 
 
