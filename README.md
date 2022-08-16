@@ -120,6 +120,9 @@ The following list specifies User Activities while using our Application.
 
 ![order_form](https://user-images.githubusercontent.com/90315399/184872447-bc8238c8-5c1b-48e2-8874-be427812c46b.png)
 
+6.4.5.. (After Ordering Food Successfully)
+
+![successful_order](https://user-images.githubusercontent.com/90315399/184873908-6741652d-70ec-4482-b7e0-ca6547f333c1.png)
 
 
 
