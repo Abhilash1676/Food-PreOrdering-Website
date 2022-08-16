@@ -10,7 +10,7 @@
 <body>
     <div class="home-page" >
     <div class="logo">
-                <a href="#" title="Logo">
+                <a href="" title="Logo">
                     <img style="margin:20px;"src="images/logo.png" alt="Restaurant Logo" class="img-responsive">
                 </a>
     </div>
@@ -21,7 +21,7 @@
 
     </div>
     <div class="hero-textbox">
-        <button><a href="home-page.php">WELCOME</a></button>
+        <button><a href="signin.php">Welcome to Abhi Ruchi</a></button>
     </div>
 
 </div>
