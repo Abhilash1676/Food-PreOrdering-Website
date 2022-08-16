@@ -138,7 +138,7 @@ The following list specifies User Activities while using our Application.
 6.5.1.. (Dashboard)
 
 ![admin_home_page](https://user-images.githubusercontent.com/90315399/184879548-3b5ade6b-bd14-428d-ad8f-d7dd63eb52ab.png)
-6.5.2.. (List of Admin's)
+6.5.2.0.. (List of Admin's)
 
 ![admin](https://user-images.githubusercontent.com/90315399/184881625-1c8f1d9f-20fe-4a24-9001-2bc56bba6fd9.png)
 6.5.2.1.. (After choosing Add Admin Button)
@@ -162,6 +162,18 @@ The following list specifies User Activities while using our Application.
 6.5.3.1..(After choosing Add Category Button)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/90315399/184921761-fca236ae-9ec2-49b7-b6d6-a841cebc9355.png">
+
+6.5.3.2..(After successful Addition to Category List)
+
+![manage_cat](https://user-images.githubusercontent.com/90315399/184923386-e461b949-f4df-45d9-bbae-71cbac1970bb.png)
+
+6.5.3.3..(After Deleting Category)
+
+![cat_ddel](https://user-images.githubusercontent.com/90315399/184924151-3f991ed9-0a35-43f8-b1fb-4f8592b41235.png)
+
+6.5.3.4..(After Choosing Update Category Button)
+
+![update_cat](https://user-images.githubusercontent.com/90315399/184924636-491c3ae8-d23f-40d1-88ef-c98dc84dd27c.png)
 
 
 
