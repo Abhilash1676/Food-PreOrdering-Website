@@ -99,7 +99,7 @@ The following list specifies User Activities while using our Application.
 
 ### Results of Customer Panel After Successful Login
 
--6.4.1..
+-6.4.1..(Home-Page of Customer's)
 
 ![c_home_page](https://user-images.githubusercontent.com/90315399/184865326-f700da9b-8acd-40b8-ad61-0de5e353fa2e.png)
 
