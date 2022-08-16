@@ -100,22 +100,25 @@ The following list specifies User Activities while using our Application.
 
 ### Results of Customer Panel After Successful Login
 
--6.4.1..(Home-Page of Customer's)
+-6.4.1.. (Home-Page of Customer's)
 
 ![c_home_page](https://user-images.githubusercontent.com/90315399/184865326-f700da9b-8acd-40b8-ad61-0de5e353fa2e.png)
 
--6.4.2..(Search Results of "Biryani")
+-6.4.2.. (Search Results of "Biryani")
 
 ![search_result_of_biryani](https://user-images.githubusercontent.com/90315399/184867466-ab876f36-7a32-4d89-91f7-6546c644e52b.png)
 
--6.4.3..(List of Categories)
+-6.4.3.. (List of Categories)
 
 ![list_of_categories](https://user-images.githubusercontent.com/90315399/184868356-614b0bc2-9dff-40e1-888f-ba1ec862d27c.png)
 
--6.4.4..(List of Juices that are currently available)
+-6.4.4.. (List of Juices after choosing Juice Categoory)
 
 ![juice_category](https://user-images.githubusercontent.com/90315399/184871726-624f6ad4-a3f5-4a88-bddc-03acb6176f52.png)
 
+-6.4.4.. (Order Now Form)
+
+![order_form](https://user-images.githubusercontent.com/90315399/184872447-bc8238c8-5c1b-48e2-8874-be427812c46b.png)
 
 
 
