@@ -27,9 +27,50 @@ So,It would be better if we have a online menu where we can view all food items 
 
 Thats where we developed our project named "PreOrder Food".Which implements the above mentioned solution.
 
-### 1.5. Scope
+### 2.1. User Classes and Characteristics
 
-Meta Stream is a Video-on-Demand Platform that enables people to stream High- Quality content. Users can download the content and add Videos to their Watch-list. Users can also choose from wide range of high-quality Stock videos of different Genre.
+* Typical Users, who are looking for Online Menu and PreOrder their Food before going to restaurant.
+* Programmers who are interested in working on the project by further developing it or fix existing bugs.
+
+### 2.2. Operating Environment
+
+* Operating System
+    1. Windows
+    2. Linux
+* Application Server
+    1. Apache Tomcat v9.0
+* Database
+    1. MySQL
+
+### 2.3. Design and Implementation Constraints
+
+    - 2.3.1. Frontend
+        - The Frontend is implemented using HTML, CSS.
+    - 2.3.2. Backend
+         - 2.3.2.1. Database
+            Database used is MySQL. It is used for storing User Information and Content Information.
+        - 2.3.2.2. Server
+            Server used is Apache Tomcat v9.0
+
+## 3. Activities
+The following list specifies User Activities while using our Application.
+
+- User Registration: In order to use our Application, user must have an Account.
+- User Login: To continue using the application, user mush Log In.
+- User Log out: User can log out of the application anytime.
+- Watch a Video: User can select and watch any video from wide range of Stock Videos.
+- Search a Video: User can Search any Video of his/her choice using the Search feature provided in the Application.
+- Like or Dislike a Video: User can wish to Like or Dislike a Video.
+- Download a Video: If User wants to save Videos Offline, he/she can download using the Download Feature.
+- Manage Credentials: User can alter his/her Login Credentials anytime.
+- Manage Activity: User can View or delete his/her Account Activity such as Watch History, Search History and Download History.
+- Contribute: User can contribute Video Ideas or Suggestions and the Admin team will try to upload the Video at the earliest.
+
+## 4. Dependencies
+- HTML 
+- CSS
+- MYSQL Database
+- XAMPP Server
 
 
 #Results 
