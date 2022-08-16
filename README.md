@@ -124,6 +124,11 @@ The following list specifies User Activities while using our Application.
 
 ![successful_order](https://user-images.githubusercontent.com/90315399/184873908-6741652d-70ec-4482-b7e0-ca6547f333c1.png)
 
+6.4.6..(After Logout)
+
+<img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184879915-d31a3e40-8408-4ced-b5b4-6d55a67c9f4f.png">
+
+
 6.5.. (Admin Login)
 
 ![admin_login](https://user-images.githubusercontent.com/90315399/184874902-6f18805c-4e7e-4d2c-9504-d6f29dd46197.png)
