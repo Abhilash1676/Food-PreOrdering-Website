@@ -2,7 +2,7 @@
 # PreOrder-Food
 Online Food Menu for AbhiRuchi  Restaurants
 ---------------------------------------------------
-Co-Developer:
+Co-Developer: https://github.com/KudithiDeekshithReddy
 
 <img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184577020-cb20ff2c-1b4d-4243-ab22-ea8a12ff6c65.png">
 
