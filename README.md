@@ -179,6 +179,11 @@ The following list specifies User Activities while using our Application.
 
 ![successful_update](https://user-images.githubusercontent.com/90315399/184925458-2d690c1f-13ac-4fd1-982b-b2e92a8e9a77.png)
 
+6.5.4.0..(Food Section)
+
+![food_home](https://user-images.githubusercontent.com/90315399/184934831-df0e6751-76a7-49a9-8077-f59b175ecb1c.png)
+
+
 
 
 
