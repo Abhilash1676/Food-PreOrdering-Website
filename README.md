@@ -148,6 +148,9 @@ The following list specifies User Activities while using our Application.
 
 ![add_admin](https://user-images.githubusercontent.com/90315399/184882328-b8f13b3c-6ab2-42f8-b62a-cba6cfb8ff67.png)
 
+6.5.2.2.. (After choosing Update Admin Button)
+
+![update_admin](https://user-images.githubusercontent.com/90315399/184882784-9806805b-1a8e-4434-8df4-c326b6aab491.png)
 
 
 
