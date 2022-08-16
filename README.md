@@ -131,6 +131,11 @@ The following list specifies User Activities while using our Application.
 
 ### Results of Admin Panel After Successful Login
 
+6.5.1..(Home-Page of Admin's Page)
+
+![admin_home_page](https://user-images.githubusercontent.com/90315399/184879548-3b5ade6b-bd14-428d-ad8f-d7dd63eb52ab.png)
+
+
 
 
 
