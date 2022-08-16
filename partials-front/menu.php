@@ -1,4 +1,4 @@
-<?php include('config/constants.php');?>
+<?php include('../config/constants.php');?>
 <html>
 <!DOCTYPE html>
 <html lang="en">
@@ -33,6 +33,10 @@
                     <li>
                         <a href="<?php echo SITEURL;?>foods.php">Foods</a>
                     </li>
+                    <li>
+                        <a href="<?php echo SITEURL;?>logout.php">Logout</a>
+                    </li>
+                    
                 </ul>
             </div>
 
