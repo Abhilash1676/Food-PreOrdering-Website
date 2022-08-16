@@ -12,29 +12,20 @@ Co-Developer: https://github.com/KudithiDeekshithReddy
 
 PreOrder-Food is a Online Food Menu that enables people to see all the food items that are currently available in the restaurant and their respective prices.If he finds the food item that he is seeking for then he can Preorder the food before going to restaurant.
 
-We offer Users to
-
-* Search from Wide-range of High-Quality Stock videos.
-* Stream any Video at their preferred Resolution.
-* Download videos.
-* Manage their Activity such as Watch History, Search History and Download History.
-* Contribute any Video Suggestions.
-
 ### 1.2. Motivation
 
-The Search Feature in most of the existing Video on Demand Platforms is not satisfactory. This spoils the overall User Experience. This was the primary motivation for us to develop a Video on Demand Platform with enhanced Search Feature and a better overall User Experience. We also wanted to learn how Video-on-demand Platforms work. So, we wanted to develop a Video-on-demand platform which is Powerful and User-friendly.
+There are two main reasons for developing the application:
 
+1.When we go to a restaurant and order some food then the waiter unexpectedly says the food you ordered is not currently available.
+
+2.It sometimes take more time than usual time to get your order.(Waiting time)
+
+This are two bad situations we might face when we go to restaurant.
 ### 1.3. Problem Definition
 
-In most of the existing Video-on-demand Platforms, Users are constantly reporting about Inaccurate Search Results and finding it difficult to get their way around. So, this Project is developed with an Efficient Search Algorithm while also being User Friendly.
+So,It would be better if we have a online menu where we can view all food items and respective prices and also supporting one more feature where we can order our food before going to restaurant.
 
-### 1.4. Objectives
-
-* To improve the search feature on existing VOD's.
-* To create a user-friendly interface, to enable users to navigate through the application without any difficulty.
-* To give user the ability to like, dislike, download a video.
-* To display video statistics like, views, likes, dislikes, downloads, with real-time updating.
-* To provide hassle-free direct downloads to user, without redirection to third party sites.
+Thats where we developed our project named "PreOrder Food".Which implements the above mentioned solution.
 
 ### 1.5. Scope
 
