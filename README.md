@@ -56,16 +56,20 @@ Thats where we developed our project named "PreOrder Food".Which implements the 
 The following list specifies User Activities while using our Application.
 
 - User Registration: In order to use our Application, user must have an Account.
-- User Login: To continue using the application, user mush Log In.
+- User Login: To continue using the application, user must Log In.
+- If User is customer:
+- User Can Search for Food in 3 different ways:
+- 1.using Search option:when user is specific about the food item he is seeking for then he can use search option.
+- 2.Category section:when user want to view items of some specific category then he can use search option.
+- 3.Food section:when user want to view all the food items then he can use search option.
+- PreOrder:Customer can preorder food by entering all his details
+- If User is Admin
+- Add Food:when some food item is newly prepared by restaurant.
+- Update Food:when some updation has to be done some specific food item.
+- Delete Food:If some food is out of stock then delete food from menu.
+- Add Category:when category is newly added by restaurant.
+- Order Details:List of all orders can be viewed.
 - User Log out: User can log out of the application anytime.
-- Watch a Video: User can select and watch any video from wide range of Stock Videos.
-- Search a Video: User can Search any Video of his/her choice using the Search feature provided in the Application.
-- Like or Dislike a Video: User can wish to Like or Dislike a Video.
-- Download a Video: If User wants to save Videos Offline, he/she can download using the Download Feature.
-- Manage Credentials: User can alter his/her Login Credentials anytime.
-- Manage Activity: User can View or delete his/her Account Activity such as Watch History, Search History and Download History.
-- Contribute: User can contribute Video Ideas or Suggestions and the Admin team will try to upload the Video at the earliest.
-
 ## 4. Dependencies
 - HTML 
 - CSS
