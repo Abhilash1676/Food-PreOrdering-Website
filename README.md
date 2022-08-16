@@ -108,7 +108,10 @@ The following list specifies User Activities while using our Application.
 
 ![search_result_of_biryani](https://user-images.githubusercontent.com/90315399/184867466-ab876f36-7a32-4d89-91f7-6546c644e52b.png)
 
--6.4.3..
+-6.4.3..(List of Categories)
+
+![list_of_categories](https://user-images.githubusercontent.com/90315399/184868356-614b0bc2-9dff-40e1-888f-ba1ec862d27c.png)
+
 
 
 
