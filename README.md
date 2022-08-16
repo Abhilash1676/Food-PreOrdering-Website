@@ -1,5 +1,5 @@
 
-# PreOrder-Food
+# Food PreOrdering Website
 
 **Online Food Menu for AbhiRuchi  Restaurant**
 
@@ -11,7 +11,7 @@ Co-Developer: https://github.com/KudithiDeekshithReddy
 
 ### 1.1. Overview
 
-PreOrder-Food is a Online Food Menu that enables people to see all the food items that are currently available in the restaurant and their respective prices.If he finds the food item that he is seeking for then he can Preorder the food before going to restaurant.
+Food PreOrdering is a Online Food Menu that enables people to see all the food items that are currently available in the restaurant and their respective prices.If he finds the food item that he is seeking for then he can Preorder the food before going to restaurant.
 
 ### 1.2. Motivation
 
