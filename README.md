@@ -155,33 +155,58 @@ The following list specifies User Activities while using our Application.
 
 ![delete](https://user-images.githubusercontent.com/90315399/184909985-e0f44d85-6e74-4506-9ea2-acc289f1c84b.png)
 
-6.5.3.0..(Category Section)
+6.5.3.0.. (Category Section)
 
 ![category_](https://user-images.githubusercontent.com/90315399/184920981-c67a5ab9-6199-47ea-a412-2e3fa8019ce8.png)
 
-6.5.3.1..(After choosing Add Category Button)
+6.5.3.1.. (After choosing Add Category Button)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/90315399/184921761-fca236ae-9ec2-49b7-b6d6-a841cebc9355.png">
 
-6.5.3.2..(After successful Addition to Category List)
+6.5.3.2.. (After successful Addition to Category List)
 
 ![manage_cat](https://user-images.githubusercontent.com/90315399/184923386-e461b949-f4df-45d9-bbae-71cbac1970bb.png)
 
-6.5.3.3..(After Deleting Category)
+6.5.3.3.. (After Deleting Category)
 
 ![cat_ddel](https://user-images.githubusercontent.com/90315399/184924151-3f991ed9-0a35-43f8-b1fb-4f8592b41235.png)
 
-6.5.3.4..(After Choosing Update Category Button)
+6.5.3.4.. (After Choosing Update Category Button)
 
 ![update_cat](https://user-images.githubusercontent.com/90315399/184924636-491c3ae8-d23f-40d1-88ef-c98dc84dd27c.png)
 
-6.5.3.5..(After Succesfull Updation)
+6.5.3.5.. (After Succesfull Updation)
 
 ![successful_update](https://user-images.githubusercontent.com/90315399/184925458-2d690c1f-13ac-4fd1-982b-b2e92a8e9a77.png)
 
-6.5.4.0..(Food Section)
+6.5.4.0.. (Food Section)
 
 ![food_home](https://user-images.githubusercontent.com/90315399/184934831-df0e6751-76a7-49a9-8077-f59b175ecb1c.png)
+
+
+6.5.4.1.. (After choosing Add Food Button)
+
+![add_food2](https://user-images.githubusercontent.com/90315399/184936228-c3c585d9-2d1b-4e74-ad98-325c835d1378.png)
+
+
+6.5.4.2.. (After successful Addition to Category List)
+
+
+6.5.4.3.. (After Deleting Category)
+
+
+6.5.4.4.. (After Choosing Update Category Button)
+
+
+6.5.4.5.. (After Succesfull Updation)
+
+6.5.5.0.. (To View List Of Orders)
+
+6.5.5.1.. (After choosing Update Order Button)
+
+6.5.5.2.. (After Successful Updation)
+
+6.5.6.0.. (Logout from Admin Panel)
 
 
 
