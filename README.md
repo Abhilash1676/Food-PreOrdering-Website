@@ -137,19 +137,15 @@ The following list specifies User Activities while using our Application.
 ### Results of Admin Panel After Successful Login
 
 6.5.1.. (Dashboard)
-
 ![admin_home_page](https://user-images.githubusercontent.com/90315399/184879548-3b5ade6b-bd14-428d-ad8f-d7dd63eb52ab.png)
 
 6.5.2.. (List of Admin's)
-
 ![admin](https://user-images.githubusercontent.com/90315399/184881625-1c8f1d9f-20fe-4a24-9001-2bc56bba6fd9.png)
 
 6.5.2.1.. (After choosing Add Admin Button)
-
 ![add_admin](https://user-images.githubusercontent.com/90315399/184882328-b8f13b3c-6ab2-42f8-b62a-cba6cfb8ff67.png)
 
 6.5.2.2.. (After choosing Update Admin Button)
-
 ![update_admin](https://user-images.githubusercontent.com/90315399/184882784-9806805b-1a8e-4434-8df4-c326b6aab491.png)
 
 
