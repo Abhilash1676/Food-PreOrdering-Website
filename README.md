@@ -97,9 +97,13 @@ The following list specifies User Activities while using our Application.
 
 <img width="958" alt="new_login" src="https://user-images.githubusercontent.com/90315399/184859274-4cb1b857-e771-4075-8a4f-0de2d4965a68.png">
 
-### Lets see Results of Customer Panel
+### Results of Customer Panel After Successful Login
 
 -6.4.1..
+
+![c_home_page](https://user-images.githubusercontent.com/90315399/184865326-f700da9b-8acd-40b8-ad61-0de5e353fa2e.png)
+
+
 
 
 
