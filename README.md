@@ -216,11 +216,26 @@ The following list specifies User Activities while using our Application.
 6.5.6.0.. (Logout from Admin Panel)
 <img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184940515-b323fe35-ce20-4daf-ba07-c8fd94e1bb65.png">
 
+## 7. Conclusion and Future Work
 
+### 7.1. Conclusion
 
+The project “PreOrdering Food” has been developed as per the requirement specification. The complete functionality has been thoroughly tested, to eliminate bugs and enhance the user experience.
 
+The design, implementation and the output reports are presented in this project report. The entire project was meticulously designed to ensure seamless user experience and easier incorporation of future modules.
 
+### 7.2. Future Work
 
+The goals of this project were purposely kept within what was believed to be attainable within the allotted timeline and resources. As such, many improvements can be made upon this initial design. That being said, it is felt that the design could be replicated to a much larger scale. The following are the features we wish to add in the future:
+- Including voice based searching, Which further reduces the  task of manual work
+- Add Online Menu for Multiple Restaurants.
 
+## 8. References
 
-
+- [Stackoverflow](https://stackoverflow.com)
+- [W3Schools](https://www.w3schools.com)
+- [Geeksforgeeks](https://www.geeksforgeeks.org)
+- [freecodecamp](https://www.freecodecamp.org)
+- [Tutorialspoint](https://www.tutorialspoint.com)
+- [javatpoint](https://www.javatpoint.com)
+- [Udemy](https://www.udemy.com)
