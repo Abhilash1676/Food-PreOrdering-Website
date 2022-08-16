@@ -10,7 +10,7 @@ Co-Developer: https://github.com/KudithiDeekshithReddy
 
 ### 1.1. Overview
 
-Meta Stream is a Video on Demand Platform that enables people to stream high quality content. Users can choose from wide range of High-Quality Stock videos of different Genres. It also enables the Users to download the content.
+PreOrder-Food is a Online Food Menu that enables people to see all the food items that are currently available in the restaurant and their respective prices.If he finds the food item that he is seeking for then he can Preorder the food before going to restaurant.
 
 We offer Users to
 
