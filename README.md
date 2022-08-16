@@ -112,6 +112,9 @@ The following list specifies User Activities while using our Application.
 
 ![list_of_categories](https://user-images.githubusercontent.com/90315399/184868356-614b0bc2-9dff-40e1-888f-ba1ec862d27c.png)
 
+-6.4.4..(List of Juices that are currently available)
+
+![juice_category](https://user-images.githubusercontent.com/90315399/184871726-624f6ad4-a3f5-4a88-bddc-03acb6176f52.png)
 
 
 
