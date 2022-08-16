@@ -151,10 +151,17 @@ The following list specifies User Activities while using our Application.
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/90315399/184909209-ed7a86a0-42b8-48ca-a689-5d50d8571c8f.png">
 
-(After choosing Delete Admin Button)
+6.5.2.4.. (After choosing Delete Admin Button)
 
 ![delete](https://user-images.githubusercontent.com/90315399/184909985-e0f44d85-6e74-4506-9ea2-acc289f1c84b.png)
 
+6.5.3.0..(Category Section)
+
+![category_](https://user-images.githubusercontent.com/90315399/184920981-c67a5ab9-6199-47ea-a412-2e3fa8019ce8.png)
+
+6.5.3.1..(After choosing Add Category Button)
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/90315399/184921761-fca236ae-9ec2-49b7-b6d6-a841cebc9355.png">
 
 
 
