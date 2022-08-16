@@ -151,7 +151,9 @@ The following list specifies User Activities while using our Application.
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/90315399/184909209-ed7a86a0-42b8-48ca-a689-5d50d8571c8f.png">
 
+(After choosing Delete Admin Button)
 
+![delete](https://user-images.githubusercontent.com/90315399/184909985-e0f44d85-6e74-4506-9ea2-acc289f1c84b.png)
 
 
 
