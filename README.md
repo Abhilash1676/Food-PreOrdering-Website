@@ -128,7 +128,6 @@ The following list specifies User Activities while using our Application.
 
 <img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184879915-d31a3e40-8408-4ced-b5b4-6d55a67c9f4f.png">
 
-
 6.5.. (Admin Login)
 
 ![admin_login](https://user-images.githubusercontent.com/90315399/184874902-6f18805c-4e7e-4d2c-9504-d6f29dd46197.png)
@@ -137,16 +136,21 @@ The following list specifies User Activities while using our Application.
 ### Results of Admin Panel After Successful Login
 
 6.5.1.. (Dashboard)
+
 ![admin_home_page](https://user-images.githubusercontent.com/90315399/184879548-3b5ade6b-bd14-428d-ad8f-d7dd63eb52ab.png)
-
 6.5.2.. (List of Admin's)
+
 ![admin](https://user-images.githubusercontent.com/90315399/184881625-1c8f1d9f-20fe-4a24-9001-2bc56bba6fd9.png)
-
 6.5.2.1.. (After choosing Add Admin Button)
-![add_admin](https://user-images.githubusercontent.com/90315399/184882328-b8f13b3c-6ab2-42f8-b62a-cba6cfb8ff67.png)
 
+![add_admin](https://user-images.githubusercontent.com/90315399/184882328-b8f13b3c-6ab2-42f8-b62a-cba6cfb8ff67.png)
 6.5.2.2.. (After choosing Update Admin Button)
+
 ![update_admin](https://user-images.githubusercontent.com/90315399/184882784-9806805b-1a8e-4434-8df4-c326b6aab491.png)
+6.5.2.3.. (After choosing Change Password Button)
+
+
+
 
 
 
