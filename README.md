@@ -76,7 +76,7 @@ The following list specifies User Activities while using our Application.
 - MYSQL Database
 - XAMPP Server
 
-#ER Diagram
+## 5.ER Diagram
 ----------------------------------------------------
 ![ER_DIAGRAM (2)](https://user-images.githubusercontent.com/90315399/182010283-21217ebd-7be6-4226-b5d6-c27dd01e2cc3.jpg)
 
