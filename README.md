@@ -149,6 +149,9 @@ The following list specifies User Activities while using our Application.
 ![update_admin](https://user-images.githubusercontent.com/90315399/184882784-9806805b-1a8e-4434-8df4-c326b6aab491.png)
 6.5.2.3.. (After choosing Change Password Button)
 
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/90315399/184909209-ed7a86a0-42b8-48ca-a689-5d50d8571c8f.png">
+
+
 
 
 
