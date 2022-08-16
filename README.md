@@ -93,9 +93,11 @@ The following list specifies User Activities while using our Application.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/90315399/184862028-afeb2f50-190d-4b4f-93fe-2911004567a0.png">
 
--6.4.. Sign in
+-6.4.. Sign in (Customer)
 
 <img width="958" alt="new_login" src="https://user-images.githubusercontent.com/90315399/184859274-4cb1b857-e771-4075-8a4f-0de2d4965a68.png">
+
+### Lets see Results of Customer Panel
 
 
 
