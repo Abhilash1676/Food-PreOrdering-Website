@@ -116,7 +116,7 @@ The following list specifies User Activities while using our Application.
 
 ![juice_category](https://user-images.githubusercontent.com/90315399/184871726-624f6ad4-a3f5-4a88-bddc-03acb6176f52.png)
 
--6.4.4.. (Order Now Form)
+-6.4.4.. (Confirm Order)
 
 ![order_form](https://user-images.githubusercontent.com/90315399/184872447-bc8238c8-5c1b-48e2-8874-be427812c46b.png)
 
