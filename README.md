@@ -81,13 +81,20 @@ The following list specifies User Activities while using our Application.
 ![ER_DIAGRAM (2)](https://user-images.githubusercontent.com/90315399/182010283-21217ebd-7be6-4226-b5d6-c27dd01e2cc3.jpg)
 
 ## 6. Results
-- 6.1. Home Page (Before Login)
+- 6.1.. Home Page (Before Login)
 
 <img width="960" alt="new_page1" src="https://user-images.githubusercontent.com/90315399/184577020-cb20ff2c-1b4d-4243-ab22-ea8a12ff6c65.png">
 
-- 6.2. Sign up
+-6.2.. Sign in
 
 <img width="958" alt="new_login" src="https://user-images.githubusercontent.com/90315399/184859274-4cb1b857-e771-4075-8a4f-0de2d4965a68.png">
+
+- 6.3.. Sign up
+
+<img width="960" alt="new_signup" src="https://user-images.githubusercontent.com/90315399/184860982-31f3f37b-1458-4e6f-8551-0704e1ad9f12.png">
+
+
+
 
 
 
